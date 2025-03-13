@@ -6,7 +6,10 @@
 # from week01.f006 import main
 # from week01.f007 import main
 # from week01.f010 import main
-from week01.f012 import main
+# from week01.f012 import main
+
+from week02.f001 import main
+# from week02.f002 import main
 
 main()
 
