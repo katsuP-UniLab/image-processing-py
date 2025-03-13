@@ -8,8 +8,9 @@
 # from week01.f010 import main
 # from week01.f012 import main
 
-from week02.f001 import main
+# from week02.f001 import main
 # from week02.f002 import main
+from week02.f003 import main
 
 main()
 
